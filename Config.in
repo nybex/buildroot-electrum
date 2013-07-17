@@ -2,3 +2,5 @@ config BR2_PACKAGE_ELECTRUM
         bool "electrum"
         help
           A thin bitcoin client
+
+          http://electrum.org
