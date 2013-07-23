@@ -6,7 +6,7 @@
 
 ELECTRUM_VERSION = master
 ELECTRUM_SOURCE = $(ELECTRUM_VERSION).tar.gz
-ELECTRUM_SITE = https://github.com/spesmilo/electrum/archive
+ELECTRUM_SITE = https://github.com/nybex/electrum/archive
 ELECTRUM_DEPENDENCIES = python python-setuptools python-slowaes python-ecdsa
 ELECTRUM_LICENSE = MIT
 
